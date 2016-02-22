@@ -16,7 +16,7 @@ Download the database [here](https://github.com/downloads/dbc-challenges/binary_
 
 ###Release 0 : Simple adding and deleting
 
-1. The Texas vote is close!  Add 2 new voters, and fabricate a vote for each of the 2 incumbent senators of Texas.  Make up their names and info.
+1. The Texas vote is close!  Add 2 new voters, and fabricate a vote for each of the 2 current senators of Texas.  Make up their names and info.
 
 2. Insert another politician, "Donald Trump".  Add suitable attributes and delete one of the senators from New Jersey.  Add Trump there instead.  Give Trump all the votes from the deleted politician.
 
