@@ -18,7 +18,7 @@ Download the database [here](https://github.com/downloads/dbc-challenges/binary_
 
 1. The Texas vote is close!  Add 2 new voters, and fabricate a vote for each of the 2 current senators of Texas.  Make up their names and info.
 
-2. Insert another politician, "Donald Trump".  Add suitable attributes and delete one of the senators from New Jersey.  Add Trump there instead.  Give Trump all the votes from the deleted politician.
+2. Insert another politician, "Ada Lovelace".  Add suitable attributes and delete one of the senators from New Jersey.  Add Lovelace there instead.  Give Lovelace all the votes from the deleted politician.
 
 **Extra Credit: SQL Shortcuts and Intricacies** - Chances are you wrote out a pretty long SQL statement to do your `INSERT` statement.  How could you shorten it?  Careful!  SQLite, just like PostgreSQL and MySQL, has subtle and annoying differences to the standard SQL language.  Make sure you use SQLite syntax for this!
 
