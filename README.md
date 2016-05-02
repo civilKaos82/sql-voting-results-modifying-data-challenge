@@ -45,8 +45,3 @@ Is this a problem?  Maybe, maybe not.  It would depend on our application.  But,
 
 
 
-
-
-##Optimize Your Learning 
-
-##Resources
