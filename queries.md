@@ -1,6 +1,6 @@
 # Queries
 
-## Release 1
+## Release 0
 1.
   ```sql
 Paste SQL query here.
@@ -12,7 +12,7 @@ Paste SQL query here.
 ```
 
 
-## Release 2
+## Release 1
 1.
   ```sql
 Paste SQL query here.
