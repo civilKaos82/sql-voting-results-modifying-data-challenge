@@ -1,10 +1,8 @@
 # SQL Queries: Insert, Update, and Delete 
  
-##Summary 
+## Summary 
+In our work with the  SQL Tutor and previous challenges, we've had some practice reading data from a database.  In other words, we've written a lot of select statements.  Now we're going to get some practice modifying the data in a database:  creating, updating, and deleting records.
 
- You've had a lot of practice querying the database with SQLtutor and other previous challenges, but here we'll actually change a database.  We'll continue working with the Poll Database.  
-
-Download the database [here](https://github.com/downloads/dbc-challenges/binary_store/congress_poll_results.db), and open it up with `sqlite3 congress_poll_results.db`.  Use `.trace` to keep your history.
 
 ##Releases
 
