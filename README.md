@@ -4,7 +4,10 @@
 In our work with the  SQL Tutor and previous challenges, we've had some practice reading data from a database.  In other words, we've written a lot of select statements.  Now we're going to get some practice modifying the data in a database:  creating, updating, and deleting records.
 
 
-##Releases
+## Releases
+### Pre-release:  Review the Schema
+We'll be working with the `voting_results.db` SQLite database.  Take a look at the database's schema, so we know which tables exist in the database, which fields are on those tables, and how the tables relate to each other.
+
 
 ###Release 0 : Simple adding and deleting
 
