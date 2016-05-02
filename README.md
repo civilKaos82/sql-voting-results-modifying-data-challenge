@@ -1,11 +1,5 @@
 # SQL Queries: Insert, Update, and Delete 
  
-##Learning Competencies 
-
-* Create and modify a database in SQLite
-* Use SQLite and the SQLite console to query data
-* Use common SQL Queries to view specific data
-
 ##Summary 
 
  You've had a lot of practice querying the database with SQLtutor and other previous challenges, but here we'll actually change a database.  We'll continue working with the Poll Database.  
