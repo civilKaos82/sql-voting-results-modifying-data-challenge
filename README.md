@@ -1,4 +1,4 @@
-# Poll Db 2 Modifying Data 
+# SQL Queries: Insert, Update, and Delete 
  
 ##Learning Competencies 
 
