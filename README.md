@@ -44,4 +44,8 @@ In the last release we deleted a number of voters from the database.  This left 
 Is this a problem?  Maybe, maybe not.  It would depend on our application.  But, let's clean up these orphaned votes anyway.  Delete all the votes whose voter cannot be found in the database.
 
 
+## Conclusion
+As with the SELECT statements that we've worked with previously, we'll soon begin to use software that will handle writing and executing these SQL queries for us.  We should leave this challenge with a good understanding of what happens in INSERT, UPDATE, and DELETE statements and also a solid familiarity with the syntax involved in making each type of statement.
+
+
 
