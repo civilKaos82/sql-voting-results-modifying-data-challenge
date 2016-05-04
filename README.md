@@ -1,12 +1,14 @@
 # SQL Queries: Insert, Update, and Delete 
  
 ## Summary 
-In our work with the  SQL Tutor and previous challenges, we've had some practice reading data from a database.  In other words, we've written a lot of select statements.  Now we're going to get some practice modifying the data in a database:  creating, updating, and deleting records.
+In our work with the  SQL Tutor and previous challenges, we've had some practice reading data from a database.  In other words, we've written a lot of SELECT statements.  Now we're going to get some practice modifying the data in a database:  creating, updating, and deleting records.
+
+*Note:*  When discussing database functions, programmers often refer to CRUD operations: *Create*, *Read*, *Update* and *Delete*. The SELECT commands we've been practicing correspond to the R, read.  This challenge focuses on the C, U, and D.
 
 
 ## Releases
 ### Pre-release:  Review the Schema
-We'll be working with the `voting_results.db` SQLite database.  Take a look at the database's schema, so we know which tables exist in the database, which fields are on those tables, and how the tables relate to each other.
+We'll be working with the `voting_results.db` SQLite database.  Take a look at the database's schema (`.schema`), so we know which tables exist in the database, which fields are on those tables, and how the tables relate to each other.
 
 
 ### Release 0:  Inserting Records into the Database
@@ -14,7 +16,7 @@ Write SQL to fulfill each of the requests below.  Copy the working SQL queries f
 
 1.  Insert a new politician located in New Jersey (NJ) and named Sen. Ada Lovelace.
 
-2.  Add two new voters—make up their names and other data.  For each of the new voters, create a vote for each of the two Texas (TX) senators.
+2.  Add two new voters (make up their names and other data).  For each of the new voters, create a vote for each of the two Texas (TX) senators.
 
 
 ### Release 1:  Updating Records in the Database
